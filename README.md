@@ -15,15 +15,6 @@
 
 <br><br><br><br><br><br>
 
-## other ROS program
-
-<a href="https://github.com/nakano16180/open_manipulator_ign">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nakano16180&repo=open_manipulator_ign" />
-</a>
-<a href="https://github.com/rionehome/ros2_demo_py">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nakano16180&repo=ros2_demo_py" />
-</a>
-
 
 <!--
 **nakano16180/nakano16180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
